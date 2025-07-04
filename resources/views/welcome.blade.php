@@ -1,6 +1,7 @@
 @extends('components.layout')
 
 @section('content')
+    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Search Section -->
 <body class="bg-gradient-to-b from-pink-500 to-orange-500 font-sans text-white base-class sm:sm-class md:md-class lg:lg-class xl:xl-class">
     <section class="py-8 ">

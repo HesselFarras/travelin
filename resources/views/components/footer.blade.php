@@ -1,3 +1,4 @@
+    <script src="https://cdn.tailwindcss.com"></script>
 <!-- Footer Section -->
 <footer class="bg-gray-900 text-white">
     <div class="container mx-auto px-4 py-12">

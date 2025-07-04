@@ -1,3 +1,4 @@
+    <script src="https://cdn.tailwindcss.com"></script>
 <header id="navbar" class="sticky top-0 left-0 w-full flex items-center bg-gradient-to-b from-orange-400 to-pink-500 transition-all duration-300 z-50">
     <div class="container mx-auto py-2">
         <div class="mx-auto flex items-center justify-between ">
