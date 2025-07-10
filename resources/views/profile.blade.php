@@ -79,26 +79,7 @@
         </div>
     </section>
     </body>
-    <div class="container mx-auto py-8">
-    <h2 class="text-2xl font-bold text-center mb-6">Produk Kami</h2>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        <!-- @foreach ($produks as $produk) -->
-        <div class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 p-6">
-            <!-- Nama Produk -->
-            <!-- <h5 class="text-xl font-bold text-gray-800 mb-2">{{ $produk->nama }}</h5> -->
-            
-            <!-- Deskripsi Produk -->
-            <!-- <p class="text-primary font-bold text-4xl text-blue-600">{{ $produk->quantity }}+</p> -->
-            
-            <!-- Harga Produk -->
-            <span class="text-lg font-semibold text-gray-600 mb-4">
-            <!-- {{ $produk->description }} -->
-            </span>
-        </div>
-        <!-- @endforeach -->
-    </div>
-</div>
-    
+
     </html>
     <footer class="bg-gray-900 text-white">
     <div class="container mx-auto px-4 py-12">
